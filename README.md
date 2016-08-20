@@ -1,4 +1,4 @@
 # php
 Tutorial PHP
 
-Predefined Constants >http://php.net/manual/en/function.mysqli-connect.php
+Predefined Constants >http://php.net/manual/en/reserved.constants.php
